@@ -3,25 +3,11 @@
 // In-memory user data
 let users = [
   {
-    firstName: "John",
-    lastName: "Doe",
-    email: "john.doe@example.com",
+    firstName: "Lupumlo",
+    lastName: "Kolisi",
+    email: "lulokolisi@gmail.com",
     password: "password123",
     role: "Manager",
-  },
-  {
-    firstName: "Jane",
-    lastName: "Doe",
-    email: "jane.doe@example.com",
-    password: "password456",
-    role: "Employee",
-  },
-  {
-    firstName: "Bob",
-    lastName: "Smith",
-    email: "bob.smith@example.com",
-    password: "password789",
-    role: "HR",
   },
 ];
 
